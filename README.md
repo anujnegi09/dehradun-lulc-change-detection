@@ -24,7 +24,7 @@ This project performs Land Use Land Cover (LULC) classification and change detec
 
 ### Dehradun Boundary (ROI)
 
-![Dehradun Boundary](images/Dehradun%20Boundary%20(ROI).png)
+![Dehradun Boundary](Images/Dehradun%20Boundary%20(ROI).png)
 
 ---
 
